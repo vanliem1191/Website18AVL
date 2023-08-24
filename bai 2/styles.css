@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #4cf808;
+}
+
+.student-list-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+.student-list-table th,
+.student-list-table td {
+    border: 1px solid #0f2db6;
+    padding: 8px;
+    text-align: left;
+}
+
+.student-list-table th {
+    background-color: #16b3ab;
+}
+
+.student-list-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.student-list-table tr:hover {
+    background-color: #ddd;
+}
+
+#loadDataButton {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #2804f5;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#loadDataButton:hover {
+    background-color: #555;
+}
