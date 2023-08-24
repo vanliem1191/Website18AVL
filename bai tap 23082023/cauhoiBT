@@ -1,0 +1,4 @@
+bài tập 1: tạo 1 trang web để hiển thị thông tin cá nhân của sinh viên, dữ liệu là 1 chuỗi JSON. tạo 1 button gắn với 1 sự kiện click để load dữ liệu từ chuỗi trây sân này lên trang web.
+trinh bày theo dạng columnar
+
+bài 2: tạo trang web để hiển thị danh sách sinh viên. thông tin danh sách sinh viên được lưu trong 1 chuỗi Json. tạo 1 button gắn với 1 sự kiện click để load dữ liệu từ chuỗi trây sân này lên trang web.
